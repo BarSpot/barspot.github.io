@@ -1,0 +1,40 @@
+{
+  "name": "iconfont",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "221947bea81f49a11b863c686a7bd235",
+      "css": "search",
+      "code": 59392,
+      "src": "websymbols"
+    },
+    {
+      "uid": "2a3cd95de2621bd87479396f236fd2a4",
+      "css": "heart",
+      "code": 59393,
+      "src": "websymbols"
+    },
+    {
+      "uid": "ce1d525f3f31024c6a6b38f5e9a88953",
+      "css": "fb",
+      "code": 62221,
+      "src": "entypo"
+    },
+    {
+      "uid": "0419da6446cb4f31093e2022793571ca",
+      "css": "tw",
+      "code": 62218,
+      "src": "entypo"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "ig",
+      "code": 61805,
+      "src": "fontawesome"
+    }
+  ]
+}

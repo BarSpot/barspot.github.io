@@ -1,0 +1,33 @@
+
+.hamburger {
+    display: none;
+}
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-animation: all 0.5s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #bbbbbb;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-item {
+    margin-left: 5rem;
+}
+
+.nav-link{
+    font-size: 1.3rem;
+    color: #5f656d;
+}
+
+.nav-link:hover{
+    color: #000000;
+}
