@@ -7,18 +7,21 @@
 
 @media only screen and (max-width: 768px) {
     .nav-menu {
+        transform:translateX(-6vmax);
         position: fixed;
         left: -100%;
         top: 5rem;
         flex-direction: column;
         background-color: #fff;
-        width: 92%;
+        width: 99%;
         border-radius: 10px;
         text-align: center;
         transition: 0.3s;
         box-shadow:
             0 10px 27px rgba(0, 0, 0, 0.05);
             z-index: 2;
+            justify-content: center;
+            
     }
 
     .nav-menu.active {
